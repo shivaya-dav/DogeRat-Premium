@@ -49,7 +49,7 @@
 ### Watch here Demo videos and Free version
 <div align="center">
   <a href="https://t.me/cybershieldx">
-    <img src="/images/demo.png" alt="Demo Video" width="40" height="40">
+    <img src="/images/demo.png" alt="Demo Video" 
   </a>
 </div>
 
