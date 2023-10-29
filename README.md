@@ -59,7 +59,7 @@
 - <strong>Simple and straightforward:</strong> Navigating the DogeRat admin dashboard is a breeze, eliminating the need for any cumbersome troubleshooting to accomplish tasks.
 
 <div align="center">
-  <img src="/images/prv1.png" width="100%" />
+  <img src="/images/prv1.jpg" width="100%" />
 <div align="center">
 </p>
 
