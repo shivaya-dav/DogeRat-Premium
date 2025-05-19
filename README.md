@@ -48,7 +48,7 @@
 
 ### Watch here Demo videos and Free version
 <div align="center">
-  <a href="https://t.me/cybershieldx">
+  <a href="https://t.me/shivaya_dav">
     <img src="/images/demo.png" alt="Demo Video" 
   </a>
 </div>
@@ -69,16 +69,16 @@
 - <strong>Store files on Telegram bot:</strong> In addition to storing files on your admin dashboard, DogeRat will also automatically send downloaded files to your designated Telegram bot.
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Live camera and microphone
 - <strong>Live camera capturing:</strong> Initiate the target device's camera recording and access live footage directly from the DogeRat dashboard.
@@ -86,62 +86,62 @@
 - <strong>Play from specker:</strong> With this feature, you can activate your own device's microphone and play its audio output through the target device.
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Screenshot
 - <strong>Using this feature, you can capture screenshots from the target device and receive them directly in the telegram bot.</strong>
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Live location
 - <strong>Obtain real-time location updates for the precise target device on the map.(coming soon)</strong>
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Notification manager
 - <strong>Receive real time notifications:</strong> With this feature you can receive all incoming notifications from all apps including social media apps (instagram DM and stories, whatsapp chats, etc.)
 - <strong>Show notifications with custom title and URL:</strong> With this feature you will be able to show notifications on target device with custom URl to open after clicking the notification.
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Sms manager
 - <strong>Access to received SMS</strong>
@@ -150,32 +150,32 @@
 - <strong>Send SMS To all:</strong> You can send SMS to all numbers availble in device.
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Contact manager, Call logs
 - <strong>Access to all saved contacts</strong>
 - <strong>Access to all call logs</strong>
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Auto permission grant
 - <strong>The DogeRat Android application will automatically grant all necessary permissions.</strong>
@@ -188,70 +188,69 @@
 - <strong>Logging all visible content on the screen:</strong> Doge can capture and log all visable content in screen such as social media chats, browser history, etc.
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Device Lock / unlock
 - <strong>Encrypt data:</strong> if you give this command your victim cant use his device 
-- <strong>Decrypt device:</ once you give this command victim device will be unlcoked and he can use
+- <strong>Decrypt device:</strong> once you give this command victim device will be unlcoked and he can use
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ### Installed apps
 - <strong>Access all installed apps</strong>
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
   
 ### Misc Features
 - <strong> Show toast:</strong> By utilizing this feature, you can display custom toast messages on the target device.
 - <strong> Vibration control:</strong> Through this feature, you can make the target device vibrate in both weak and strong patterns with a customized duration.</strong>
 
 <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  </p>
+</p>
 
 ## How to use
-### If you are interested in DogeRat, you can find more information by reaching out to our [Telegram channel](https://t.me/cybershieldx):
+### If you are interested in DogeRat, you can find more information by reaching out to our [Telegram channel](https://t.me/shivaya_dav):
 
 <div align="center">
-  <a href="https://t.me/cybershieldx">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
-
